@@ -1,0 +1,13 @@
+node{
+    stage ( "Test1"){
+        echo "connecting to App1 "
+            }
+    stage ("Test2"){
+          echo "connecting to App2 "
+    }
+    stage ("Test3"){
+          echo "connecting to App3 "
+    }
+    
+        
+}
